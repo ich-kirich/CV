@@ -1,0 +1,39 @@
+body {
+    position: absolute;
+    right: 50%;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #e6e2d4;
+}
+.cv{
+    margin: auto;
+    border: black solid 1px;
+    display: flex;
+} /* This is back-end of cv */
+.content-cv {
+    display: table;
+}
+.about-me {
+    display: flex;
+    vertical-align: top;
+    padding: 25px;
+    background-color: #9999FF;
+    width: 300px
+}
+.skills-ed-proj {
+    display: table-cell;
+    vertical-align: top;
+    padding: 25px;
+    background-color: #FF9999;
+}
+.name-and-photo {
+    display: flex;
+    flex-direction: column;
+}
+.my-name {
+    width: fit-content; 
+}
+.photo {
+    width: 80%;
+    height: 80%;
+}
