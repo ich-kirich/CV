@@ -6,19 +6,19 @@ body {
     background-color: #e6e2d4;
 }
 .cv{
+    display: flex;
     margin: auto;
     border: #000 solid 1px;
-    display: flex;
 } /* This is back-end of cv */
 .content-cv {
     display: table;
 }
 .about-me {
     display: flex;
-    vertical-align: top;
     padding: 25px;
+    vertical-align: top;
+    width: 300px;
     background-color: #9999FF;
-    width: 300px
 }
 .skills-ed-proj {
     display: table-cell;
