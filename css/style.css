@@ -3,7 +3,7 @@ body {
     right: 50%;
     margin: 0 auto;
     padding: 2rem;
-    background-color: #e6e2d4;
+    background-color: #988a8a;
 }
 .cv{
     display: flex;
@@ -19,7 +19,7 @@ body {
     flex-direction: column;
     vertical-align: top;
     width: 300px;
-    background-color: #9999FF;
+    background-color: #f1f1f1;
 }
 .skills-ed-proj {
     display: table-cell;
@@ -39,7 +39,7 @@ body {
     height: 80%;
     border-radius: 50%;
 }
-.contact {
+.head-article-about {
     margin: 0 auto;
     font-size: 24px;
 }
@@ -49,6 +49,10 @@ body {
     margin-bottom: 1rem;
     background-color: #244060;
 }
-.content-contact {
+.address, .phone, .email, .telegram, .languages {
     list-style-type: none;
+    padding: 0;
+}
+.address-head, .phone-head, .email-head, .telegram-head {
+    font-weight: bold;
 }
