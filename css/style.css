@@ -3,7 +3,7 @@ body {
     right: 50%;
     margin: 0 auto;
     padding: 2rem;
-    background-color: #e6e2d4;
+    background-color: #988a8a;
 }
 .cv{
     display: flex;
@@ -19,7 +19,7 @@ body {
     flex-direction: column;
     vertical-align: top;
     width: 300px;
-    background-color: #9999FF;
+    background-color: #f1f1f1;
 }
 .skills-ed-proj {
     display: table-cell;
