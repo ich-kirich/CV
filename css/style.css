@@ -49,7 +49,7 @@ body {
     margin-bottom: 1rem;
     background-color: #244060;
 }
-.address, .phone, .email, .telegram, .languages, .projects {
+.address, .phone, .email, .telegram, .languages, .projects, .university, .courses-youtube-coursera {
     list-style-type: none;
     padding: 0;
 }
@@ -59,4 +59,16 @@ body {
 .project-name {
     font-weight: bold;
     font-size: 20px;
+}
+.university-head , .courses-youtube-coursera-head{
+    font-weight: bold;
+    font-size: 18px;
+}
+.date {
+    font-size: 17px;
+    padding-bottom: 10xp;
+    font-style: italic;
+}
+.course {
+    font-size: 15px;
 }
