@@ -7,7 +7,7 @@ body {
 }
 .cv{
     margin: auto;
-    border: black solid 1px;
+    border: #000 solid 1px;
     display: flex;
 } /* This is back-end of cv */
 .content-cv {
