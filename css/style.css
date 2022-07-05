@@ -49,10 +49,14 @@ body {
     margin-bottom: 1rem;
     background-color: #244060;
 }
-.address, .phone, .email, .telegram, .languages {
+.address, .phone, .email, .telegram, .languages, .projects {
     list-style-type: none;
     padding: 0;
 }
 .address-head, .phone-head, .email-head, .telegram-head {
     font-weight: bold;
+}
+.project-name {
+    font-weight: bold;
+    font-size: 20px;
 }
