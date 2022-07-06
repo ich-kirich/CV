@@ -28,7 +28,6 @@ body {
     display: table-cell;
     vertical-align: top;
     padding: 25px;
-    background-color: #FF9999;
 }
 .name-and-photo {
     display: flex;
@@ -38,17 +37,17 @@ body {
     width: fit-content; 
     font-family: sans-serif;
     color: #244061;
-    font-size: 30px;
+    font-size: 35px;
     margin-top: 0px;
 }
 .photo {
-    width: 80%;
-    height: 80%;
+    width: 90%;
+    height: 90%;
     border-radius: 50%;
 }
 .head-article-about {
     margin: 0 auto;
-    font-size: 24px;
+    font-size: 28px;
     font-family: sans-serif;
     color: #244061;
 }
@@ -61,9 +60,13 @@ body {
 .address, .phone, .email, .telegram, .languages, .projects, .university, .courses-youtube-coursera {
     list-style-type: none;
     padding: 0;
+    font-size: 20px;
 }
 .address-head, .phone-head, .email-head, .telegram-head {
     font-weight: bold;
+}
+.skills li{
+    font-size: 20px;
 }
 .project-name {
     font-weight: bold;
@@ -74,15 +77,15 @@ body {
     font-size: 18px;
 }
 .date {
-    font-size: 17px;
+    font-size: 20px;
     padding-bottom: 10xp;
     font-style: italic;
 }
 .course {
-    font-size: 15px;
+    font-size: 20px;
 }
 footer {
-    margin-top: 30%;
+    margin-top: 20%;
 }
 .list-footer li{
     display: inline;
