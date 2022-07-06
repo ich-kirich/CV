@@ -33,6 +33,10 @@ body {
 }
 .my-name {
     width: fit-content; 
+    font-family: sans-serif;
+    color: #244061;
+    font-size: 30px;
+    margin-top: 0px;
 }
 .photo {
     width: 80%;
@@ -42,6 +46,8 @@ body {
 .head-article-about {
     margin: 0 auto;
     font-size: 24px;
+    font-family: sans-serif;
+    color: #244061;
 }
 .underlined {
     width: 100%;
