@@ -22,6 +22,7 @@ main {
         right: 0;
         top: 50%;
         width: 80%;
+        height: 90%;
         margin: 0 auto;
         border: #000 solid 1px;
         background-color: #f1f1f1;
@@ -37,6 +38,7 @@ main {
         right: 0;
         top: 50%;
         width: 70%;
+        height: 90%;
         margin: 0 auto;
         border: #000 solid 1px;
         background-color: #f1f1f1;
