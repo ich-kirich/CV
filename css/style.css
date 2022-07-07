@@ -29,6 +29,7 @@ main {
         transform: translate(0, -50%);
     } /* This is back-end of cv */
 }
+
 @media (max-width: 1080px){
     main {
         position: absolute;
@@ -36,6 +37,20 @@ main {
         right: 0;
         top: 50%;
         width: 70%;
+        margin: 0 auto;
+        border: #000 solid 1px;
+        background-color: #f1f1f1;
+        box-shadow: 0 0 5px 2px;
+        transform: translate(0, -50%);
+    } /* This is back-end of cv */
+} 
+@media (max-width: 863px){
+    main {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 50%;
+        width: 80%;
         margin: 0 auto;
         border: #000 solid 1px;
         background-color: #f1f1f1;
